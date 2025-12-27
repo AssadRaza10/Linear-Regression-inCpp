@@ -1,0 +1,2 @@
+# No Python requirements for this project
+# This repository contains a single C++ source file and does not need Python packages.
